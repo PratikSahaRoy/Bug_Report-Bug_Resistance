@@ -18,7 +18,7 @@ Outcome:
 
 Successfully identified and reported 13 bugs, leading to improvement in website functionality.
 
-##Project Work:
+**Project Work:**
 
 Enhanced understanding of software testing life cycle (STLC) and defect management.
 
